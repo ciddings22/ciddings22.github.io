@@ -14,7 +14,7 @@ body {
 	width: 20vw;
 	font-size: 1.5vw;
 	text-align: center;
-	margin-top: 0px;
+	padding: 10px;
 }
 .smalltitle {
 	display: inline-block;
@@ -27,15 +27,35 @@ body {
 	border: 1px solid black;
 	width: 21vw;
 	display: inline-block;
+	height: 25vw;
 }
 
 #aboutme {
 	border: 1px solid black;
 	width: 70vw;
 	display: inline-block;
+	height: 15vw;
+	
 }
-
 .aboutmetext {
 	font-size: 2vw;
 	padding: 1vw;
+}
+.penguin {
+	display: block;
+	overflow: auto;
+}
+.row1 {
+	display: inline-block;
+	border: 1px solid black;
+	width: 160px;
+	height: 100px;
+	vertical-align: bottom;
+	padding: 10px;
+	margin-bottom: 2px;
+	margin-top: -3px;
+	margin-left: -3px;
+	margin-right: -1px;
+}
+.photographyimage {
 }
