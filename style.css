@@ -1,12 +1,14 @@
 body {
+	background-color: #702082;
 }
 
-#title {
+.title {
 	text-align: center;
 	border: 1px solid black;
 	padding: 20px;
 	letter-spacing: 2px;
 	font-size: 5vw;
+	background-color: #A77BCA;
 }
 
 .links {
@@ -28,6 +30,9 @@ body {
 	width: 21vw;
 	display: inline-block;
 	height: 25vw;
+	vertical-align: top;
+	margin-top: -3vw;
+	background-color: white;
 }
 
 #aboutme {
@@ -35,7 +40,9 @@ body {
 	width: 70vw;
 	display: inline-block;
 	height: 15vw;
-	
+	vertical-align: top;
+	margin-top: -3vw;
+	background-color: white;
 }
 .aboutmetext {
 	font-size: 2vw;
@@ -57,5 +64,12 @@ body {
 	margin-left: -3px;
 	margin-right: -1px;
 }
-.photographyimage {
+#tbellimage {
+	display: inline-block;
+	margin-left: 21.5vw;
+	margin-top: -9.5vw
+}
+.text  {
+	background-color: white;
+	width: 30vw;
 }
