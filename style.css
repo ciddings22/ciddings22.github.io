@@ -76,3 +76,6 @@ body {
 .classmateslinks  {
 	background-color: white
 }
+#minus, #plus, #number{
+	display: inline-block;
+}
