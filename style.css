@@ -76,6 +76,13 @@ body {
 .classmateslinks  {
 	background-color: white
 }
-#minus, #plus, #number{
+#minus, #plus, #number, #minus5, #plus5, #divide10, #multiply10, #multiply0{
 	display: inline-block;
+}
+
+#number {
+	font-size: 150pt;
+}
+
+#counter {
 }
