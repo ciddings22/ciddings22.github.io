@@ -86,3 +86,7 @@ body {
 
 #counter {
 }
+#check {
+	display: block;
+	margin-top: 2vw;
+}
