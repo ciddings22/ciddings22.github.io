@@ -90,3 +90,12 @@ body {
 	display: block;
 	margin-top: 2vw;
 }
+#buttons {
+	display: inline-block;
+	vertical-align: top;
+}
+.button {
+	display: block;
+	vertical-align: top;
+	width: 10vw;
+}
