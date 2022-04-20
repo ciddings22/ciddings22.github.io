@@ -3,7 +3,8 @@ function submit() {
 	document.getElementById("output").innerHTML =  "ACCESS GRANTED";
 	}
 	else {
-		document.getElementById("output").innerHTML =  "PLEASE ENTER CORRECT PASSWORD";
+		document.getElementById("output").innerHTML =  "The password " + document.getElementById("password").value + " was the wrong password";
+		document.getElementById
 	}
 }
 
