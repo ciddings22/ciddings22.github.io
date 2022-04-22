@@ -1,0 +1,21 @@
+#top {
+	background-color: #001489;
+	color: white;
+	margin: -.75vw;
+	padding: 2vw;
+	text-align: center
+}
+.whitetext {
+	display: inline-block;
+	width: 12vw;
+	font-size: 1.25vw;
+	vertical-align: top;
+	padding-right: -2vw;
+}
+#problemchild {
+	width: 15vw;
+}
+#stmalogo {
+	margin-top: 4vw;
+	margin-left: 2vw;
+}
