@@ -1,0 +1,14 @@
+#top {
+	background-color: #303030;
+	margin: -1vw;
+}
+.linkbar {
+	padding: 1vw;
+	margin-left: 10vw;
+	display: inline-block;
+}
+.toptext {
+	color: #d6d6d6;
+	display: inline-block;
+	padding: 1vw;
+}
