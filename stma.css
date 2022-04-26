@@ -19,3 +19,29 @@
 	margin-top: 4vw;
 	margin-left: 2vw;
 }
+#disthome, #ourschools {
+	vertical-align: top;
+	background-color: #001489;
+	color: white;
+	display: inline-block;
+	padding: 1vw;
+	padding-left: 1.5vw;
+	padding-right: 1.5vw;
+	margin-top: 5vw;
+}
+#disthome {
+	margin-left: 30vw;
+}
+#ourschools {
+	margin-left: .9vw;
+}
+#search {
+	vertical-align: top;
+	display: inline-block;
+	background-color: #ffd400;
+	padding: 1vw;
+	padding-left: 1.45vw;
+	padding-right: 1.45vw;
+	margin-top: 5vw;
+	margin-left: 0.9vw;
+}
