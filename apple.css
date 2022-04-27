@@ -24,3 +24,16 @@
 	margin-right: -8.7vw;
 	margin-bottom: -1.6vw;
 }
+#mid {
+	background-color: #fbfbfd;
+	margin-top: 1vw;
+	margin-left: -.7vw;
+	margin-right: -.7vw;
+	
+}
+.imagebar {
+	padding: 1vw;
+}
+#leftmid {
+	padding-left: 7vw;
+}
