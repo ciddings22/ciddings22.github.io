@@ -2,13 +2,25 @@
 	background-color: #303030;
 	margin: -1vw;
 }
-.linkbar {
+.image {
 	padding: 1vw;
 	margin-left: 10vw;
 	display: inline-block;
+	margin-top: -2vw;
+	margin-bottom: -1.5vw;
 }
 .toptext {
 	color: #d6d6d6;
 	display: inline-block;
 	padding: 1vw;
+	font-size: 1.09vw;
+}
+#lastword {
+	margin-right: -8.5vw;
+}
+#cart {
+}
+#search {
+	margin-right: -8.7vw;
+	margin-bottom: -1.6vw;
 }
