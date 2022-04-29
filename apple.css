@@ -36,3 +36,6 @@
 #leftmid {
 	padding-left: 7vw;
 }
+.buttontext {
+	display: inline-block;
+}
