@@ -1,5 +1,5 @@
 #sidebar {
-	
+	display: inline-block;
 }
 #logo {
 	padding-left: 1.9vw;
@@ -10,4 +10,20 @@
 	padding: .3vw;
 	padding-left: 2vw;
 	font-size: 1.05vw;
+}
+#contents {
+	display: inline-block;
+	vertical-align: top;
+	padding-left: 3vw;
+	padding-top: 5vw;
+}
+#title {
+	font-size: 22.5pt;
+}
+#from {
+	font-size: 10pt;
+}
+.contentstext {
+	width: 59vw;
+	font-size: 12pt;
 }
