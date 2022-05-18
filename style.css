@@ -29,7 +29,7 @@ body {
 	border: 1px solid black;
 	width: 21vw;
 	display: inline-block;
-	height: 25vw;
+	height: 50vw;
 	vertical-align: top;
 	margin-top: -3vw;
 	background-color: white;
@@ -67,7 +67,7 @@ body {
 #tbellimage {
 	display: inline-block;
 	margin-left: 21.5vw;
-	margin-top: -9.5vw
+	margin-top: -34.6vw
 }
 .text  {
 	background-color: white;
