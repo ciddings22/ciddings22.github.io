@@ -1,7 +1,9 @@
 #top {
 	background-color: #001489;
 	color: white;
-	margin: -.75vw;
+	margin-left: -.75vw;
+	margin-right: -.75vw;
+	margin-top: 0vw;
 	padding: 2vw;
 	text-align: center
 }
@@ -16,7 +18,8 @@
 	width: 15vw;
 }
 #stmalogo {
-	margin-top: 4vw;
+	margin-top: 0vw;
+	margin-bottom: 2vw;
 	margin-left: 2vw;
 }
 #disthome, #ourschools {
@@ -27,7 +30,7 @@
 	padding: 1vw;
 	padding-left: 1.5vw;
 	padding-right: 1.5vw;
-	margin-top: 5vw;
+	margin-top: 3vw;
 }
 #disthome {
 	margin-left: 30vw;
@@ -42,6 +45,6 @@
 	padding: 1vw;
 	padding-left: 1.45vw;
 	padding-right: 1.45vw;
-	margin-top: 5vw;
+	margin-top: 3vw;
 	margin-left: 0.9vw;
 }
