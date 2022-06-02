@@ -1,4 +1,15 @@
-h1 {
+#h1 {
 	font-family: ITC Benguiat;
 }
-
+#img1 {
+	display: inline-block;
+}
+#links {
+	display: block;
+}
+.title {
+	text-align: center;
+}
+#buttons {
+	margin-left: 37vw;
+}
